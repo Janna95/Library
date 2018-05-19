@@ -1,0 +1,84 @@
+{
+  "library": [
+    {
+       "id": 1,
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "year": 2003,
+      "quote": "'Life is filled with secrets. You can't learn them all at once.'",
+      "img": "./../../assets/bookCovers/TheDaVinciCode.jpg" 
+    },
+    { 
+      "id": 2,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "quote": "'He looked at her the way all women want to be looked at by a man.'",
+      "img": "./../../assets/bookCovers/TheGreatGatsby.jpg" 
+    },
+    {
+      "id": 3,
+      "title": "Eat, Pray, Love", 
+      "author": "Elizabeth Gilbert",
+      "year": 2006,
+      "quote": "'People think a soul mate is your perfect fit, and that's what everyone wants. But a true soul mate is a mirror, the person who shows you everything that is holding you back, the person who brings you to your own attention so you can change your life.'",
+      "img": "./../../assets/bookCovers/EatPrayLove.jpg"
+    },
+    { 
+      "id": 4,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "quote": "'It's the possibility of having a dream come true that makes life interesting.'",
+      "img": "./../../assets/bookCovers/TheAlchemist.jpg"
+    },
+    { 
+      "id": 5, 
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year": 2006,
+      "quote": "'You forget what you want to remember, and you remember what you want to forget.'",
+      "img": "./../../assets/bookCovers/TheRoad.jpg" 
+    },
+    {
+      "id": 6,
+      "title": "The Picture Of Dorian Gray",
+      "author": "Oscar Wilde",
+      "year": 1890,
+      "quote": "'Nowadays people know the price of everything and the value of nothing.'",
+      "img": "./../../assets/bookCovers/DorianGray.jpg"
+     },
+    { 
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "quote": "'You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.'",
+      "img": "./../../assets/bookCovers/Mockingbird.jpg"
+    },
+    { 
+      "id": 8,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "quote": "'The most beautiful things in the world cannot be seen or touched, they are felt with the heart.'",
+      "img": "./../../assets/bookCovers/TheLittlePrince.jpg" 
+    },
+    { 
+      "id": 9,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "year": 1877,
+      "quote": "'It's much better to do good in a way that no one knows anything about it.'",
+      "img": "./../../assets/bookCovers/AnnaKarenina.jpg" 
+    },
+    
+    { "id": 10,
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "year": 1997,
+      "quote": "'Your 'I CAN' is more important than your IQ.'",
+      "img": "./../../assets/bookCovers/TheMonk.jpg" 
+    }
+  ]
+}

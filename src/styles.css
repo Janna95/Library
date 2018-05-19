@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: rgb(23, 53, 71);
+  background-image: url("./assets/backgroundBooks.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+}

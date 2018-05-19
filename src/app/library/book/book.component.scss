@@ -1,0 +1,59 @@
+.book {
+    background: linear-gradient(to bottom right, #129a8e, #0d5393a8);
+    width: auto;
+    height: auto;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-around;
+    &-cover {
+        background-color: #5FC2BA;
+        height: 30vh;
+        margin: 10px;
+        &  img {
+            height: 100%;
+        }
+    }
+    &-info {
+        color: #fbfbfb;
+        width: 70vw;
+        height: 26vh;
+        margin: 10px;
+        padding: 15px;
+        &-title{
+            color: white;
+            font-size: 30px;
+            font-weight: bold; 
+        }
+        &-author {
+            font-style: italic;
+            font-size: 15px;
+        }
+        &-year{
+            font-style: italic;
+        }
+        &-quote{
+            color: white;
+            font-size: 20px;
+        }
+
+    }
+    &-btn {
+        display: flex;
+        flex-direction: column;
+        height: 30vh;
+        width: auto;
+        align-items: center;
+        justify-content: space-evenly;
+        margin: 10px;
+    }
+}
+button {
+    border: 0;
+    border-radius: 20px/50px;
+    font-size: 100%;
+}
+button:hover {
+    background-color: #c11365;
+    transition: 0.1s;
+    
+}

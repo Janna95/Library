@@ -1,0 +1,20 @@
+.container {
+    width: 70vw;
+    height: auto;;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.add-book {
+    border: 0;
+    align-self: center;
+    border-radius: 20px/50px;
+    font-size: 100%;
+}
+
+.add-book:hover {
+    background-color: #c11365;
+    transition: 0.1s;
+}
+

@@ -1,0 +1,19 @@
+<div class="book">
+    <div class="book-cover">
+        <img src="{{ book.img }}" alt="">
+    </div>
+    <div class="book-info">
+        <div class="book-info-title">{{ book.title }}</div>
+        <div class="book-info-author">  By {{ book.author }}</div>
+        <div class="book-info-year">  First published in {{ book.year }}</div>
+        <br> 
+        <div>Favourite quote:</div>
+        <hr>
+        <div class="book-info-quote">{{ book.quote }}</div>
+    </div>
+    <div class="book-btn">
+    <button class="edit" (click)="passBooksAmount()">EDIT</button>
+    <button class="delete">DELETE</button>
+    </div>
+</div>
+<br>
